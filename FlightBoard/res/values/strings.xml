@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlightBoard</string>
+    <color name="backGroundColor">#CCCCCCCC</color>
+    <color name="buttonColor">#CCCCCCCC</color>
+    <string name="backButtonClickHandler">buttonClickHandler</string>
+    <string name="startButtonClickHandler">buttonClickHandler</string>
+    <string name="arrayClickHandler">arrayClickHandler</string>
+    <string name="backButtonContent">Back</string>
+    <string name="startButtonContent">Start</string>
+</resources>
